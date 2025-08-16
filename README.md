@@ -18,3 +18,7 @@ It is a fairly simple wrapper. It only replaces the functions actually used by t
 2. Download and extract [Sewer Rave Twitter Royale](https://slitherpunk.itch.io/sewer-rave-twitter-royale) and [BepInEx](https://github.com/BepInEx/BepInEx/releases/latest) to the `SewerRaveTwitterRoyale` subfolder.
 3. Run the game once and close it. This should create some extra folders.
 4. You should now be able to build the project using Visual Studio. It'll automatically copy the plugin to the `SewerRaveTwitterRoyale/BepInEx/plugins` folder when built.
+
+# License
+
+This project is licensed under the GNU Lesser General Public License version 3, or any later version. See `LICENSE`.
